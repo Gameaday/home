@@ -43,7 +43,7 @@ Pick underserved niches where the incumbent overcharges or simply does not exist
 
 | Date | Phase | Installs | Sales | Decision | Notes |
 |---|---|---|---|---|---|
-| | | | | | |
+| 2026-10-24 | pre-launch | — | — | — | Housekeeping sweep: MIT licenses added to 6 repos (Media-Maid, FrictionPoint, Stream-Doctor, Metatron, Herald, Cerberus); Stream-Doctor README written; ia-helper launch issue templates + MANAGE_EXTERNAL_STORAGE audit issue #75; suite roadmap pointers added to Herald/Havoc/Chronical/Cerberus. Open flag: Stream-Doctor design doc assumes a subscription, which breaks rule 2 — revisit before any build work. |
 
 ## Related repos
 
@@ -52,5 +52,6 @@ Pick underserved niches where the incumbent overcharges or simply does not exist
 - FrictionPoint — Phase 3 (system diagnostics, Rust, SBC-first)
 - TShock_Metatron / _Herald / _Cerberus / _Chronical / _Havoc — Phase 4 suite
 - Gameaday/historylabs.dev — storefront, tutorials, archive site
+- Stream-Doctor — unscheduled (Windows streamer diagnostics; design doc exists, pricing conflicts with rule 2)
 
 *Written October 2026 so future-us does not lose the plot.*
