@@ -17,6 +17,10 @@ Pick underserved niches where the incumbent overcharges or simply does not exist
 5. **Maintenance budget: ≤ 2 hrs/week per shipped product.** If a product exceeds it, cut scope, not sleep.
 6. **A new phase only starts if the previous gate is green.** The calendar is the default, not a contract.
 
+## Sanctioned rule-2 exception
+
+**Stream-Doctor: subscription approved (2026-10-24, Carl).** Diagnostics for live hardware chase a moving target — drivers, capture cards, encoders, and OS updates keep shifting — so the product ships continuous improvements. A small recurring cost buys stream stability, which is the actual value being sold. This is the only sanctioned subscription; all other products remain one-time.
+
 ## Year at a glance
 
 | Phase | Months | Product | Detailed plan | Gate (go / no-go) |
@@ -43,7 +47,7 @@ Pick underserved niches where the incumbent overcharges or simply does not exist
 
 | Date | Phase | Installs | Sales | Decision | Notes |
 |---|---|---|---|---|---|
-| 2026-10-24 | pre-launch | — | — | — | Housekeeping sweep: MIT licenses added to 6 repos (Media-Maid, FrictionPoint, Stream-Doctor, Metatron, Herald, Cerberus); Stream-Doctor README written; ia-helper launch issue templates + MANAGE_EXTERNAL_STORAGE audit issue #75; suite roadmap pointers added to Herald/Havoc/Chronical/Cerberus. Open flag: Stream-Doctor design doc assumes a subscription, which breaks rule 2 — revisit before any build work. |
+| 2026-10-24 | pre-launch | — | — | — | Housekeeping sweep: MIT licenses added to 6 repos (Media-Maid, FrictionPoint, Stream-Doctor, Metatron, Herald, Cerberus); Stream-Doctor README written; ia-helper launch issue templates + MANAGE_EXTERNAL_STORAGE audit issue #75; suite roadmap pointers added to Herald/Havoc/Chronical/Cerberus. Resolved same day: Stream-Doctor subscription model approved by Carl — hardware/driver churn means continuous improvements, which justifies recurring pricing. Recorded as the sanctioned rule-2 exception. |
 
 ## Related repos
 
@@ -52,6 +56,6 @@ Pick underserved niches where the incumbent overcharges or simply does not exist
 - FrictionPoint — Phase 3 (system diagnostics, Rust, SBC-first)
 - TShock_Metatron / _Herald / _Cerberus / _Chronical / _Havoc — Phase 4 suite
 - Gameaday/historylabs.dev — storefront, tutorials, archive site
-- Stream-Doctor — unscheduled (Windows streamer diagnostics; design doc exists, pricing conflicts with rule 2)
+- Stream-Doctor — unscheduled (Windows streamer diagnostics; Free + Pro subscription, the sanctioned rule-2 exception)
 
 *Written October 2026 so future-us does not lose the plot.*
