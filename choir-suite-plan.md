@@ -1,7 +1,7 @@
 # Choir — Terraria Server Suite & Bot Platform
 
 *Plan parked October 2026. Feeds the Phase 4 gate; nothing here is scheduled work yet.
-Named for the angelic choirs — heaven's own taxonomy: every block is a voice, the event bus is the score. (Working name "Choir", retired Oct 2026; rename logged in the master plan review log.)*
+Named for the angelic choirs — heaven's own taxonomy: every block is a voice, the event bus is the score. (Working name "Terrawinia", retired Oct 2026; rename logged in the master plan review log.)*
 
 ## 1. Thesis
 
