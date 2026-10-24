@@ -82,6 +82,24 @@ First properly shipped, documented, supported bot plugin owns the niche. The dis
 from that same Reddit thread ("why are TShock plugins so difficult to find"): do not rely on
 ecosystem discovery — own the channel and the storefront.
 
+### The borrowed megaphone (Oct 2026)
+
+Warm relationships with bigger streamers are the distribution plan's force multiplier: invite each
+to host community streams on our servers — free server, zero setup, their revenue, "powered by
+Choir" disclosed on screen. Funnel math (2,500 avg live viewers/event, conservative): ~50 site
+visits, ~$40 direct license sales, ~8 email captures, 1–2 Choir Managed leads — but a ~1-in-3 shot
+at a commission conversation, and one $8k commission outweighs ~890 backfill licenses. Translation:
+do not measure these events by license sales; measure them by commission conversations, Managed
+signups, and list growth. The warm circle is the realistic path to the first commissions (the
+F3 gate in road-to-full-time.md).
+
+Sequence: (1) now — soft playtest invites on the unstreamed community server, no build-up;
+(2) at Phase 4 launch — one flagship Dynasty co-stream per streamer, Havoc wired so their chat
+drives the votes; (3) monthly recurring slot for the best performer; (4) convert the most engaged
+into the first Managed/commission clients. Schedule events away from TShock release windows, and
+60 days of unstreamed dogfood before the first big audience. Never fake counts; the disclosure
+is the brand.
+
 ## 6. Support & revenue model
 
 ### Product sales — rule 2 (one-time licenses), unchanged
